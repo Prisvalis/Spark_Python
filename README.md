@@ -4,7 +4,7 @@ This repository provides a minimal **Python** project template for running **Apa
 
 ## Prerequisites
 
-* **Python 3.9+**
+* **Python 3.12**
 * **uv** – a fast Python package manager and virtual‑environment tool.
   Install it following the instructions at https://github.com/astral-sh/uv.
 
