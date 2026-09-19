@@ -1,0 +1,18 @@
+[project]
+name = "spark-template"
+version = "0.1.0"
+description = "A minimal Python template for running Spark jobs"
+authors = [{name = "Your Name", email = "you@example.com"}]
+requires-python = "==.12"
+
+[tool.uv]
+# uv will create a virtual environment in .venv by default
+
+[project.dependencies]
+# pyspark provides the Spark API for Python
+pyspark = "*"
+
+PYTorch = [
+    "torch",
+    "torchvision",
+]
