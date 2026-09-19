@@ -1,10 +1,3 @@
-[project]
-name = "spark-template"
-version = "0.1.0"
-description = "A minimal Python template for running Spark jobs"
-authors = [{name = "Your Name", email = "you@example.com"}]
-requires-python = ">=3.9"
-
 ## Spark Python Template
 
 This repository provides a minimal **Python** project template for running **Apache Spark** jobs.
